@@ -29,20 +29,7 @@
   <img src="https://img.shields.io/badge/Version-2.2-green?style=for-the-badge">
 
 
-9
-  <img src="https://img.shields.io/github/license//Zenoixnoize/DARK-TOOL?style=for-the-badge">
 
-
-10
-  <img src="https://img.shields.io/github/stars/Zenoixnoize/DARK-TOOL?style=for-the-badge">
-
-
-11
-  <img src="https://img.shields.io/github/issues/Zenoixnoize/DARK-TOOL?color=rstyle=for-the-badge">
-
-
-12
-  <img src="https://img.shields.io/github/forks/Zenoixnoize/DARK-TOOL?color=teal&style=for-the-badge">
 
 
 13
@@ -58,7 +45,7 @@
 
 
 16
-  <img src="https://img.shields.io/badge/Author-HTR--Tech-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/DEVELOPER%20INSTAGRAM-https%3A%2F%2Fwww.instagram.com%2Fliyanage__tharindu__%3Fr%3Dnametag-blue">
 
 
 17
@@ -102,7 +89,7 @@
 
 
 27
-<i>Any actions and or activities related to <b>Zphisher</b> is solely your responsibility. The misuse of this toolkit can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
+<i>Any actions and or activities related to <b>DARK-TOOL</b> is solely your responsibility. The misuse of this toolkit can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
 
 
 28
@@ -158,4 +145,4 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 
 41
-- Beginners friendly
+- NOIZE PROJECTS CONTACT - THARINDUNAYANTHALIYANAGE@GMAIL.COM 
