@@ -1,6 +1,6 @@
 #!/bin/bash
 
-##   Zphisher 	: 	Automated Phishing Tool
+##   Darkui	: 	Automated Phishing Tool
 ##   Author 	: 	Tharindu Liyanage  
 ##   Version 	: 	2.2
 ##   Github 	: 	https://github.com/Zenoixnoize
