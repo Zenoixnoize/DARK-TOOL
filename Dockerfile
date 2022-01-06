@@ -2,7 +2,7 @@ FROM debian:10
 LABEL MAINTAINER="https://github.com/Zenoixnoize/DARK-TOOL"
 
 WORKDIR DARK-TOOL/
-ADD . /zphisher
+ADD . /DARK-TOOL
 
 RUN apt-get update
 RUN apt-get install -y curl
