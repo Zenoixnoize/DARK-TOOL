@@ -11,4 +11,4 @@ RUN apt-get install -y unzip
 RUN apt-get clean
 RUN apt-get install -y wget
 
-CMD ["./zphisher.sh"]
+CMD ["./Darkui.sh"]
