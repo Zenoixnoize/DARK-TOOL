@@ -30,19 +30,19 @@
 
 
 9
-  <img src="https://img.shields.io/github/license/htr-tech/zphisher?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/zenoixnoize/DARK-TOOL?style=for-the-badge">
 
 
 10
-  <img src="https://img.shields.io/github/stars/htr-tech/zphisher?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/zenoixnoize/DARK-TOOL?style=for-the-badge">
 
 
 11
-  <img src="https://img.shields.io/github/issues/htr-tech/zphisher?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/zenoixnoize/DARK-TOOL?color=red&style=for-the-badge">
 
 
 12
-  <img src="https://img.shields.io/github/forks/htr-tech/zphisher?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/zenoixnoize/DARK-TOOL?color=teal&style=for-the-badge">
 
 
 13
