@@ -10,7 +10,7 @@
 
 
 4
-  <img src="PicsArt_01-06-07.23.10.jpg">
+  <img src=".imgs/PicsArt_01-06-07.23.10.jpg">
 
 
 5
