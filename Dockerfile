@@ -1,7 +1,7 @@
 FROM debian:10
-LABEL MAINTAINER="https://github.com/htr-tech/zphisher"
+LABEL MAINTAINER="https://github.com/Zenoixnoize/DARK-TOOL"
 
-WORKDIR zphisher/
+WORKDIR DARK-TOOL/
 ADD . /zphisher
 
 RUN apt-get update
